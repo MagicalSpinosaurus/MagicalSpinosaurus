@@ -1,4 +1,4 @@
-## Hi there 👋
+## 🦖 Let me introduce myself
 
 <!--
 **MagicalSpinosaurus/MagicalSpinosaurus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
