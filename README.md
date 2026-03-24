@@ -26,20 +26,6 @@ Here are some ideas to get you started:
 * **[엘리베이터](https://github.com/MagicalSpinosaurus/Making_an_elevator.git)** - STM32 기반 1~3층 엘리베이터 제어 및 스테퍼 모터 활용
 * **[자율주행 RC카](https://github.com/MagicalSpinosaurus/RC_CAR_Autonomous-driving.git)** - STM32F411 및 초음파 센서를 활용한 장애물 회피 주행
 
-### 🖥️ Tech Stack
-* **Languages**: ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Verilog](https://img.shields.io/badge/Verilog-%233C1414.svg?style=flat&logo=verilog&logoColor=white)
-* **Embedded**: ![STM32](https://img.shields.io/badge/STM32-%2303234B.svg?style=flat&logo=stmicroelectronics&logoColor=white) ![RaspberryPi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi)
-* **Tools**: ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
-* 
- ### 🌐 Languages & Frameworks
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  ![STM32 Series](https://img.shields.io/badge/STM32_Series-%2303234B.svg?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-
-### 🤝 Collaboration & Documentation
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white) ![Google Docs](https://img.shields.io/badge/Google%20Docs-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)
-
-### 🎨 Design & Creative
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
 
 ### 🖥️ Tech Stack
 
