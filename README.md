@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 * **[엘리베이터](https://github.com/MagicalSpinosaurus/Making_an_elevator.git)** - STM32 기반 1~3층 엘리베이터 제어 및 스테퍼 모터 활용
 * **[자율주행 RC카](https://github.com/MagicalSpinosaurus/RC_CAR_Autonomous-driving.git)** - STM32F411 및 초음파 센서를 활용한 장애물 회피 주행
 
-### 🛠 Tech Stack
+### 🖥️ Tech Stack
 * **Languages**: ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Verilog](https://img.shields.io/badge/Verilog-%233C1414.svg?style=flat&logo=verilog&logoColor=white)
 * **Embedded**: ![STM32](https://img.shields.io/badge/STM32-%2303234B.svg?style=flat&logo=stmicroelectronics&logoColor=white) ![RaspberryPi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi)
 * **Tools**: ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
