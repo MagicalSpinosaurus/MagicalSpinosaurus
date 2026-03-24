@@ -32,11 +32,11 @@ Here are some ideas to get you started:
 
 **Languages**
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Verilog](https://img.shields.io/badge/Verilog-%233C1414.svg?style=for-the-badge&logo=verilog&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Verilog](https://img.shields.io/badge/Verilog-%23F37032.svg?style=for-the-badge&logo=verilog&logoColor=white)
 
 **Embedded**
 
-![STM32 Series](https://img.shields.io/badge/STM32_Series-%2303234B.svg?style=for-the-badge&logo=stmicroelectronics&logoColor=white) ![Basys-3](https://img.shields.io/badge/BASYS_3-%23EB1F26.svg?style=for-the-badge&logo=xilinx&logoColor=white) ![Vivado](https://img.shields.io/badge/Vivado-EB1F26?style=for-the-badge&logo=xilinx&logoColor=white)
+![STM32 Series](https://img.shields.io/badge/STM32_Series-%2303234B.svg?style=for-the-badge&logo=stmicroelectronics&logoColor=white) ![Basys 3](https://img.shields.io/badge/BASYS_3-%23EB1F26.svg?style=for-the-badge&logo=xilinx&logoColor=white) ![Vivado](https://img.shields.io/badge/Vivado-%23CC0000.svg?style=for-the-badge&logo=xilinx&logoColor=white)
 
  **Tools**
  
