@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ### 🚀 Projects
 * **[선풍기](https://github.com/MagicalSpinosaurus/STM32_Pomodoro_Fan.git)** - STM32 기반 타이머 선풍기 및 서보 모터 활용
 * **[엘리베이터](https://github.com/MagicalSpinosaurus/Making_an_elevator.git)** - STM32 기반 1~3층 엘리베이터 제어 및 스테퍼 모터 활용
-* **[자율주행 RC카]([https://github.com/MagicalSpinosaurus/RC_CAR_Autonomous-driving.git](https://github.com/MagicalSpinosaurus/STM32_Autonomous_RC_Car.git))** - STM32F411 및 초음파 센서를 활용한 장애물 회피 주행
+* **[자율주행 RC카](https://github.com/MagicalSpinosaurus/STM32_Autonomous_RC_Car.git)** - STM32F411 및 초음파 센서를 활용한 장애물 회피 주행
 
 
 ### 🖥️ Tech Stack
