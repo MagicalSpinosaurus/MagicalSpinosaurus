@@ -32,15 +32,15 @@ Here are some ideas to get you started:
 
 **Languages**
 
-[![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://www.notion.so/C-310c26e61512813e82c9f7af9df437fc?source=copy_link) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Verilog](https://img.shields.io/badge/Verilog-%23F37032.svg?style=for-the-badge&logo=verilog&logoColor=white)
+[![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://www.notion.so/C-310c26e61512813e82c9f7af9df437fc?source=copy_link) [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.notion.so/Python-310c26e6151281129057d63f92d09463?source=copy_link) [![Verilog](https://img.shields.io/badge/Verilog-%23F37032.svg?style=for-the-badge&logo=verilog&logoColor=white)](https://www.notion.so/Verilog-32ec26e61512803a9528e45454961832?source=copy_link)
 
 **Embedded**
 
-![STM32 Series](https://img.shields.io/badge/STM32_Series-%2303234B.svg?style=for-the-badge&logo=stmicroelectronics&logoColor=white) ![Basys 3](https://img.shields.io/badge/BASYS_3-%23EB1F26.svg?style=for-the-badge&logo=xilinx&logoColor=white) ![Vivado](https://img.shields.io/badge/Vivado-%23CC0000.svg?style=for-the-badge&logo=xilinx&logoColor=white)
+[![STM32 Series](https://img.shields.io/badge/STM32_Series-%2303234B.svg?style=for-the-badge&logo=stmicroelectronics&logoColor=white)](https://www.notion.so/STM32-Series-310c26e6151281e98fa8edb1f6df8f9a?source=copy_link) [![Basys 3](https://img.shields.io/badge/BASYS_3-%23EB1F26.svg?style=for-the-badge&logo=xilinx&logoColor=white)](https://www.notion.so/BASYS-3-32ec26e61512801abb5bf33b0a2ee7bc?source=copy_link) [![Vivado](https://img.shields.io/badge/Vivado-%23CC0000.svg?style=for-the-badge&logo=xilinx&logoColor=white)](https://www.notion.so/Vivado-32ec26e61512801881a5db016dd713ff?source=copy_link)
 
  **Tools**
  
- ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+ ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/2d3c26e61512806588d6f61adb4c0893?v=2d3c26e6151281eba1b9000c4792bded) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
  
 **Design & Docs**
 
