@@ -22,9 +22,16 @@ Here are some ideas to get you started:
 * **주요 활동**: 임베디드 시스템 및 마이크로컨트롤러 제어 학습
 
 ### 🚀 Projects
+
+[![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://www.notion.so/C-310c26e61512813e82c9f7af9df437fc?source=copy_link) 
+STM32
 * **[선풍기](https://github.com/MagicalSpinosaurus/STM32_Pomodoro_Fan.git)** - STM32 기반 타이머 선풍기 및 서보 모터 활용
 * **[엘리베이터](https://github.com/MagicalSpinosaurus/Making_an_elevator.git)** - STM32 기반 1~3층 엘리베이터 제어 및 스테퍼 모터 활용
 * **[자율주행 RC카](https://github.com/MagicalSpinosaurus/STM32_Autonomous_RC_Car.git)** - STM32F411 및 초음파 센서를 활용한 장애물 회피 주행
+* 
+[![Verilog](https://img.shields.io/badge/Verilog-%23F37032.svg?style=for-the-badge&logo=verilog&logoColor=white)](https://www.notion.so/Verilog-32ec26e61512803a9528e45454961832?source=copy_link)
+BASYS3
+* **[화재 경보기](https://github.com/MagicalSpinosaurus/verilog-basys3-fire-alarm.git)** - BASYS3,온습도 센서, 적외선 센서를 활용한 화재 경보기
 
 
 ### 🖥️ Tech Stack
