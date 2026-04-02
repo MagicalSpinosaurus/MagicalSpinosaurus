@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 * **[자율주행 RC카](https://github.com/MagicalSpinosaurus/STM32_Autonomous_RC_Car.git)** - STM32F411 및 초음파 센서를 활용한 장애물 회피 주행
 
 
+
 [![Verilog](https://img.shields.io/badge/Verilog-%23F37032.svg?style=for-the-badge&logo=verilog&logoColor=white)](https://www.notion.so/Verilog-32ec26e61512803a9528e45454961832?source=copy_link) [![Vivado](https://img.shields.io/badge/Vivado-%23CC0000.svg?style=for-the-badge&logo=xilinx&logoColor=white)](https://www.notion.so/Vivado-32ec26e61512801881a5db016dd713ff?source=copy_link)
 [![Basys 3](https://img.shields.io/badge/BASYS_3-%23EB1F26.svg?style=for-the-badge&logo=xilinx&logoColor=white)](https://www.notion.so/BASYS-3-32ec26e61512801abb5bf33b0a2ee7bc?source=copy_link) 
 
