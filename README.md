@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 --> 주어진 상황에서 최선을 다하여 배움을 성과로 바꾸는 이동준입니다.
 
 <br>
+<br>
 
 ### 🎓 Experience
 * **학습/교육**: [대한 상공 회의소 경기 인력 개발원] (2025.12.11 ~ 현재)
