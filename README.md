@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---> 주어진 상황 속에서 배움을 성과로 바꾸는 이동준입니다.
+--> I’m Dongjun Lee, turning what I learn into results within real-world constraints.
+주어진 상황 속에서 배움을 성과로 바꾸는 이동준입니다.
 
 <br>
 <br>
