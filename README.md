@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 ### 🎓 Experience
 * **Training / Education**: [Korea Chamber of Commerce and Industry Gyeonggi Human Resources Development Institute] (Dec 11, 2025 – Present)
-  **학습/교육**: [대한 상공 회의소 경기 인력 개발원] (2025.12.11 ~ 현재)
+* **학습/교육**: [대한 상공 회의소 경기 인력 개발원] (2025.12.11 ~ 현재)
 * **Main Activities**: Learning embedded systems and microcontroller-based control
-  **주요 활동**: 임베디드 시스템 및 마이크로컨트롤러 제어 학습
+* **주요 활동**: 임베디드 시스템 및 마이크로컨트롤러 제어 학습
 
   <br>
 
