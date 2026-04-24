@@ -49,8 +49,7 @@ Here are some ideas to get you started:
 * **[Fire Alarm](https://github.com/MagicalSpinosaurus/verilog-basys3-fire-alarm.git)** - Fire alarm system using BASYS3, a temperature and humidity sensor, and an infrared flame sensor  
   **[화재 경보기](https://github.com/MagicalSpinosaurus/verilog-basys3-fire-alarm.git)** - BASYS3, 온습도 센서, 적외선 센서를 활용한 화재 경보기
   
-* **[ROBOT ARM](https://github.com/MagicalSpinosaurus/Verilog-BASYS3-Vivado-Vitis-Making-ROBOT-ARM.git)** - BASYS3-based 4-DOF robot arm control system with Vivado Block Design, MicroBlaze, AXI GPIO, Vitis, and custom Verilog servo PWM <br>  
- **[로봇 팔](https://github.com/MagicalSpinosaurus/Verilog-BASYS3-Vivado-Vitis-Making-ROBOT-ARM.git)** - Vivado Block Design, MicroBlaze, AXI GPIO, Vitis, custom Verilog servo PWM 기반 BASYS3 4축 로봇팔 만들기
+* **[ROBOT ARM](https://github.com/MagicalSpinosaurus/Verilog-BASYS3-Vivado-Vitis-Making-ROBOT-ARM.git)** - BASYS3-based 4-DOF robot arm control system with Vivado Block Design, MicroBlaze, AXI GPIO, Vitis, and custom Verilog servo PWM <br>  **[로봇 팔](https://github.com/MagicalSpinosaurus/Verilog-BASYS3-Vivado-Vitis-Making-ROBOT-ARM.git)** - Vivado Block Design, MicroBlaze, AXI GPIO, Vitis, custom Verilog servo PWM 기반 BASYS3 4축 로봇팔 만들기
   
 <br>
 
