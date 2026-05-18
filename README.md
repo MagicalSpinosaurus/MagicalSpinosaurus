@@ -22,8 +22,18 @@ Here are some ideas to get you started:
 ### 🎓 Experience
 * **Training / Education**: [Korea Chamber of Commerce and Industry Gyeonggi Human Resources Development Institute] (Dec 11, 2025 – Present) <br>
   **학습/교육**: [대한 상공 회의소 경기 인력 개발원] (2025.12.11 ~ 현재)
-* **Main Activities**: Learning embedded systems and microcontroller-based control <br>
+  * **Main Activities**: Learning embedded systems and microcontroller-based control <br>
   **주요 활동**: 임베디드 시스템 및 마이크로컨트롤러 제어 학습
+
+* **Training / Education**: [The Joeun Computer Academy] Interior Architecture Design Training Program (Oct 2017 – Jan 2018) <br>
+  **학습/교육**: [더조은컴퓨터아카데미] 실내건축설계 디자인 양성과정 (2017.10 ~ 2018.01)
+  * **Main Activities**: Studied interior design, CAD, Photoshop, 3ds Max, and computer graphics <br>
+    **주요 활동**: 실내 인테리어, CAD, 포토샵, 3D MAX, 컴퓨터 그래픽 학습
+    
+* **Training / Education**: [KBS Broadcasting Academy] KBS Broadcasting Professional Course – Voice Acting (Oct 2016 – Oct 2024) <br>
+  **학습/교육**: [KBS 방송 아카데미] KBS 방송 전문과정 성우 (2016.10 ~ 2024.10)
+  * **Main Activities**: Voice training, narration, acting, and dubbing practice <br>
+    **주요 활동**: 발성, 낭독, 연기, 더빙 훈련
 
   <br>
 
