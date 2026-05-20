@@ -61,7 +61,7 @@ Here are some ideas to get you started:
   
 * **[ROBOT ARM](https://github.com/MagicalSpinosaurus/Verilog-BASYS3-Vivado-Vitis-Making-ROBOT-ARM.git)** - BASYS3-based 4-DOF robot arm control system with Vivado Block Design, MicroBlaze, AXI GPIO, Vitis, and custom Verilog servo PWM <br>  **[로봇 팔](https://github.com/MagicalSpinosaurus/Verilog-BASYS3-Vivado-Vitis-Making-ROBOT-ARM.git)** - Vivado Block Design, MicroBlaze, AXI GPIO, Vitis, custom Verilog servo PWM 기반 BASYS3 4축 로봇팔 만들기
 
-* **[VISION ROBOT ARM](https://github.com/MagicalSpinosaurus/On-Device-FPGA-based-Vision-Robot-Arm.git)** - Vision Robot Arm - Vision-based automatic sorting system using BASYS3, OV7670 camera, and a 6-axis robot arm <br>  **[객체 인식 자동 로봇 팔](https://github.com/MagicalSpinosaurus/On-Device-FPGA-based-Vision-Robot-Arm.git)** - 비전 로봇암 - BASYS3, OV7670 카메라, 6축 로봇팔을 활용한 비전 기반 자동 분류 시스템
+* **[VISION ROBOT ARM](https://github.com/MagicalSpinosaurus/vision_robotarm.git)** - Vision Robot Arm - Vision-based automatic sorting system using BASYS3, OV7670 camera, and a 6-axis robot arm <br>  **[객체 인식 자동 로봇 팔](https://github.com/MagicalSpinosaurus/vision_robotarm.git)** - 비전 로봇암 - BASYS3, OV7670 카메라, 6축 로봇팔을 활용한 비전 기반 자동 분류 시스템
   
 <br>
 
