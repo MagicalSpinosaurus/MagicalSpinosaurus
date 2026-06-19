@@ -65,6 +65,18 @@ Here are some ideas to get you started:
   
 <br>
 
+[![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](...)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
+![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![KoNLPy/Okt](https://img.shields.io/badge/KoNLPy%2FOkt-00A98F?style=for-the-badge)
+![PyQt5](https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+
+* **[Steam Game Recommender](https://github.com/MagicalSpinosaurus/Steam_Recommendation_PyQt5.git)** - A PyQt-based game recommendation system that collects Korean Steam reviews via the Steam API, preprocesses text with KoNLPy/Okt, and recommends games using TF-IDF and Word2Vec similarity analysis.
+
+  **[스팀 게임 추천기](https://github.com/MagicalSpinosaurus/Steam_Recommendation_PyQt5.git)** - Steam API 기반 한국어 리뷰 수집, KoNLPy/Okt 전처리, TF-IDF·Word2Vec 유사도 분석을 활용한 PyQt 게임 추천 시스템
+
+
 ### 🖥️ Tech Stack
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
