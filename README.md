@@ -161,9 +161,10 @@ Here are some ideas to get you started:
 [![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)](...)
 [![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-%2303234B.svg?style=for-the-badge&logo=stmicroelectronics&logoColor=white)](...)
 [![PyCharm](https://img.shields.io/badge/PyCharm-%23000000.svg?style=for-the-badge&logo=pycharm&logoColor=white)](...)
+[![Google Colab](https://img.shields.io/badge/Google_Colab-%23F9AB00.svg?style=for-the-badge&logo=googlecolab&logoColor=white)](...)
 [![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)](...)
 [![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)](...)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MagicalSpinosaurus)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MagicalSpinosaurus)
 
 <br>
 
