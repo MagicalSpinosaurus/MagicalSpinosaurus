@@ -76,6 +76,30 @@ Here are some ideas to get you started:
 
   **[스팀 게임 추천기](https://github.com/MagicalSpinosaurus/Steam_Recommendation_PyQt5.git)** - Steam API 기반 한국어 리뷰 수집, KoNLPy/Okt 전처리, TF-IDF·Word2Vec 유사도 분석을 활용한 PyQt 게임 추천 시스템
 
+<br>
+
+[![Verilog](https://img.shields.io/badge/Verilog-%23F37032.svg?style=for-the-badge&logo=verilog&logoColor=white)](...)
+[![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](...)
+[![Vivado](https://img.shields.io/badge/Vivado-%23CC0000.svg?style=for-the-badge&logo=xilinx&logoColor=white)](...)
+[![Vitis](https://img.shields.io/badge/Vitis-%23CC0000.svg?style=for-the-badge&logo=xilinx&logoColor=white)](...)
+[![PetaLinux](https://img.shields.io/badge/PetaLinux-%230078D7.svg?style=for-the-badge&logo=linux&logoColor=white)](...)
+[![Zybo Z7--20](https://img.shields.io/badge/Zybo_Z7--20-%23EB1F26.svg?style=for-the-badge&logo=xilinx&logoColor=white)](...)
+[![FPGA](https://img.shields.io/badge/FPGA-%23007ACC.svg?style=for-the-badge&logo=xilinx&logoColor=white)](...)
+[![LLM](https://img.shields.io/badge/LLM-%23102230.svg?style=for-the-badge&logo=openai&logoColor=white)](...)
+[![Transformer](https://img.shields.io/badge/Transformer-%234B8BBE.svg?style=for-the-badge)](...)
+[![NPU Accelerator](https://img.shields.io/badge/NPU_Accelerator-%236A0DAD.svg?style=for-the-badge)](...)
+[![AXI DMA](https://img.shields.io/badge/AXI_DMA-%23000000.svg?style=for-the-badge)](...)
+[![UART](https://img.shields.io/badge/UART-%234B5563.svg?style=for-the-badge)](...)
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-%2374AA9C.svg?style=for-the-badge&logo=openai&logoColor=white)](...)
+[![Codex](https://img.shields.io/badge/Codex-%23000000.svg?style=for-the-badge&logo=openai&logoColor=white)](...)
+
+* **[Embedded Generative AI System and Accelerator](https://github.com/MagicalSpinosaurus/FPGA_GPTalk.git)** - An on-device LLM chat system that runs the SmolLM2-135M lightweight language model on a Zybo Z7-20 FPGA board, implements an FPGA NPU accelerator for Transformer Linear/GEMV operations, and verifies UART-based text generation.
+
+  **[생성형 AI 임베디드 및 가속기](https://github.com/MagicalSpinosaurus/FPGA_GPTalk.git)** - Zybo Z7-20 FPGA 보드에서 SmolLM2-135M 경량 언어모델을 실행하고, Transformer Linear/GEMV 연산 가속용 NPU를 구현하여 UART 기반 텍스트 생성 데모를 검증한 온디바이스 LLM 채팅 시스템
+
+
+
+
 
 ### 🖥️ Tech Stack
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
