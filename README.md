@@ -106,16 +106,84 @@ Here are some ideas to get you started:
 
 **Languages**
 
-[![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://www.notion.so/C-310c26e61512813e82c9f7af9df437fc?source=copy_link) [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.notion.so/Python-310c26e6151281129057d63f92d09463?source=copy_link) [![Verilog](https://img.shields.io/badge/Verilog-%23F37032.svg?style=for-the-badge&logo=verilog&logoColor=white)](https://www.notion.so/Verilog-32ec26e61512803a9528e45454961832?source=copy_link)
+[![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://www.notion.so/C-310c26e61512813e82c9f7af9df437fc?source=copy_link)
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.notion.so/Python-310c26e6151281129057d63f92d09463?source=copy_link)
+[![Verilog](https://img.shields.io/badge/Verilog-%23F37032.svg?style=for-the-badge&logo=verilog&logoColor=white)](https://www.notion.so/Verilog-32ec26e61512803a9528e45454961832?source=copy_link)
 
-**Embedded**
+<br>
 
-[![STM32 Series](https://img.shields.io/badge/STM32_Series-%2303234B.svg?style=for-the-badge&logo=stmicroelectronics&logoColor=white)](https://www.notion.so/STM32-Series-310c26e6151281e98fa8edb1f6df8f9a?source=copy_link) [![Basys 3](https://img.shields.io/badge/BASYS_3-%23EB1F26.svg?style=for-the-badge&logo=xilinx&logoColor=white)](https://www.notion.so/BASYS-3-32ec26e61512801abb5bf33b0a2ee7bc?source=copy_link) [![Vivado](https://img.shields.io/badge/Vivado-%23CC0000.svg?style=for-the-badge&logo=xilinx&logoColor=white)](https://www.notion.so/Vivado-32ec26e61512801881a5db016dd713ff?source=copy_link)
+**Embedded / FPGA**
 
- **Tools**
- 
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MagicalSpinosaurus) [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/310c26e615128081bfcedd54492687aa) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
- 
-**Design & Docs**
+[![STM32 Series](https://img.shields.io/badge/STM32_Series-%2303234B.svg?style=for-the-badge&logo=stmicroelectronics&logoColor=white)](https://www.notion.so/STM32-Series-310c26e6151281e98fa8edb1f6df8f9a?source=copy_link)
+[![Basys 3](https://img.shields.io/badge/BASYS_3-%23EB1F26.svg?style=for-the-badge&logo=xilinx&logoColor=white)](https://www.notion.so/BASYS-3-32ec26e61512801abb5bf33b0a2ee7bc?source=copy_link)
+[![Zybo Z7--20](https://img.shields.io/badge/Zybo_Z7--20-%23EB1F26.svg?style=for-the-badge&logo=xilinx&logoColor=white)](...)
+[![Zynq--7000 SoC](https://img.shields.io/badge/Zynq--7000_SoC-%23CC0000.svg?style=for-the-badge&logo=xilinx&logoColor=white)](...)
+[![FPGA](https://img.shields.io/badge/FPGA-%23007ACC.svg?style=for-the-badge&logo=xilinx&logoColor=white)](...)
+[![MicroBlaze](https://img.shields.io/badge/MicroBlaze-%23CC0000.svg?style=for-the-badge&logo=xilinx&logoColor=white)](...)
+[![AXI GPIO](https://img.shields.io/badge/AXI_GPIO-%23000000.svg?style=for-the-badge)](...)
+[![AXI DMA](https://img.shields.io/badge/AXI_DMA-%23000000.svg?style=for-the-badge)](...)
+[![AXI Stream](https://img.shields.io/badge/AXI--Stream-%234B5563.svg?style=for-the-badge)](...)
+[![UART](https://img.shields.io/badge/UART-%234B5563.svg?style=for-the-badge)](...)
+[![PWM](https://img.shields.io/badge/PWM-%236A0DAD.svg?style=for-the-badge)](...)
 
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white) ![Google Docs](https://img.shields.io/badge/Google%20Docs-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)
+<br>
+
+**AI / Machine Learning**
+
+[![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)](...)
+[![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge&logo=python&logoColor=white)](...)
+[![LLM](https://img.shields.io/badge/LLM-%23102230.svg?style=for-the-badge&logo=openai&logoColor=white)](...)
+[![Transformer](https://img.shields.io/badge/Transformer-%234B8BBE.svg?style=for-the-badge)](...)
+[![SmolLM2--135M](https://img.shields.io/badge/SmolLM2--135M-%23FF6F00.svg?style=for-the-badge)](...)
+[![NPU Accelerator](https://img.shields.io/badge/NPU_Accelerator-%236A0DAD.svg?style=for-the-badge)](...)
+[![GEMV](https://img.shields.io/badge/GEMV_Acceleration-%23000000.svg?style=for-the-badge)](...)
+[![TF--IDF](https://img.shields.io/badge/TF--IDF-%23F7931E.svg?style=for-the-badge)](...)
+[![Word2Vec](https://img.shields.io/badge/Word2Vec-%2300A98F.svg?style=for-the-badge)](...)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)](...)
+[![KoNLPy/Okt](https://img.shields.io/badge/KoNLPy%2FOkt-00A98F?style=for-the-badge)](...)
+
+<br>
+
+**Frameworks / Libraries**
+
+[![PyQt5](https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white)](...)
+[![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)](...)
+[![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](...)
+[![pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](...)
+
+<br>
+
+**Development Tools**
+
+[![Vivado](https://img.shields.io/badge/Vivado-%23CC0000.svg?style=for-the-badge&logo=xilinx&logoColor=white)](https://www.notion.so/Vivado-32ec26e61512801881a5db016dd713ff?source=copy_link)
+[![Vitis](https://img.shields.io/badge/Vitis-%23CC0000.svg?style=for-the-badge&logo=xilinx&logoColor=white)](...)
+[![PetaLinux](https://img.shields.io/badge/PetaLinux-%230078D7.svg?style=for-the-badge&logo=linux&logoColor=white)](...)
+[![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)](...)
+[![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-%2303234B.svg?style=for-the-badge&logo=stmicroelectronics&logoColor=white)](...)
+[![PyCharm](https://img.shields.io/badge/PyCharm-%23000000.svg?style=for-the-badge&logo=pycharm&logoColor=white)](...)
+[![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)](...)
+[![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)](...)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MagicalSpinosaurus)
+
+<br>
+
+**AI-assisted Development**
+
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-%2374AA9C.svg?style=for-the-badge&logo=openai&logoColor=white)](...)
+[![Codex](https://img.shields.io/badge/Codex-%23000000.svg?style=for-the-badge&logo=openai&logoColor=white)](...)
+
+<br>
+
+**Collaboration / Docs**
+
+[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/310c26e615128081bfcedd54492687aa)
+![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
+![Google Docs](https://img.shields.io/badge/Google%20Docs-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)
+![Google Slides](https://img.shields.io/badge/Google%20Slides-FBBC04?style=for-the-badge&logo=googleslides&logoColor=black)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+<br>
+
+**Design & Media**
+
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
